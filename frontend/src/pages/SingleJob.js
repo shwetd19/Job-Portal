@@ -86,7 +86,7 @@ const SingleJob = () => {
                     sx={{ fontSize: "13px" }}
                     variant="contained"
                   >
-                    Applied for this Job
+                    Apply for this Job
                   </Button>
                 </Card>
               </Box>
